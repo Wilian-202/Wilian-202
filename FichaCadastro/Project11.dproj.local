@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/20 17:26:41.000.337,=C:\Users\willian.lima\Documents\RAD Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/12/22 14:52:30.000.414,=C:\Users\willian.lima\Documents\RAD Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/12/22 18:16:53.000.537,C:\Users\willian.lima\Documents\RAD Studio\Projects\Unit5.pas=C:\Users\willian.lima\Documents\RAD Studio\Projects\TesteDIA22.pas</Transaction>
+    <Transaction>2021/12/22 18:16:53.000.537,C:\Users\willian.lima\Documents\RAD Studio\Projects\Unit5.dfm=C:\Users\willian.lima\Documents\RAD Studio\Projects\TesteDIA22.dfm</Transaction>
+    <Transaction>2021/12/22 18:16:54.000.926,C:\Users\willian.lima\Documents\RAD Studio\Projects\Project11.dproj=C:\Users\willian.lima\Documents\RAD Studio\Projects\Project11.dproj</Transaction>
+    <Transaction>2021/12/23 09:58:12.000.991,C:\Users\willian.lima\Documents\RAD Studio\Projects\FichaCadastro.pas=C:\Users\willian.lima\Documents\RAD Studio\Projects\TesteDIA22.pas</Transaction>
+    <Transaction>2021/12/23 09:58:12.000.991,C:\Users\willian.lima\Documents\RAD Studio\Projects\FichaCadastro.dfm=C:\Users\willian.lima\Documents\RAD Studio\Projects\TesteDIA22.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
